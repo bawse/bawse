@@ -8,7 +8,7 @@
 ### 🔧 What I Do
 
 - ⚡ **Web3 Development & Consulting**  
-  Specialized in Solana & Cardano ecosystems – token launches, market analysis, HFT bots, and real-time infra.
+  Specialized in Solana, Ethereum & Cardano ecosystems – token launches, market analysis, HFT bots, and real-time infra.
 
 - 🧱 **Custom Infrastructure for High-Throughput Systems**  
   From real-time Solana nodes to fault-tolerant messaging systems with NATS, Rust, and Python.
