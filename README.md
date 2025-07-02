@@ -17,7 +17,7 @@
   Azure & AWS | IaC | CI/CD | Kubernetes | Azure AD B2C | App Security (SAST, DAST, SCA)
 
 - 🌐 **Full-Stack Software Engineering**  
-  C#, Node.js, Python, React, .NET Microservices, Angular, and scalable cloud-native solutions.
+  Python, Rust, C#, Node.js, React, .NET Microservices, and scalable cloud-native solutions.
 
 ---
 
