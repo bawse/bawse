@@ -36,10 +36,4 @@
 
 ---
 
-### 📬 Let’s Connect
-
-📨 Telegram: [@JayP28](https://t.me/JayP28)
-
----
-
 🛠 Open to collaborations, consulting, and tech advisory – especially in the UAE Web3 space.
